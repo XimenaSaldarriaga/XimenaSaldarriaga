@@ -3,7 +3,7 @@
 👩‍💻 A passionate Front-End Developer in training, dedicated to constantly learning .</h3>
 
 
-- 🔭 I’m currently working on [Bootcamp Makaia](Bootcamp Makaia)
+- 🔭 I’m currently working on [Bootcamp Makaia]
 
 - 🌱 I’m currently learning **React and development projects with other technologies**
 
