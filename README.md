@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ximena Saldarriaga</h1>
-<h3 align="center">
+<h3>
 👩‍💻 A passionate Front-End Developer in training, dedicated to constantly learning .</h3>
 
 
