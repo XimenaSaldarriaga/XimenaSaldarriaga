@@ -4,9 +4,9 @@
 <hr/>
 
 
-- 🔭 I’m currently working on **Bootcamp Makaia**
+- 📚 I’m currently learning on **Bootcamp Makaia**
 
-- 🌱 I’m currently learning **React and development projects with other technologies**
+- 💻 I’m currently learning **React and development projects with other technologies**
 
 - 📫 How to reach me **ximenasaldarriagav@gmail.com**
 
