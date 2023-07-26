@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ximena-saldarriaga-vélez/) 
 <a href="https://instagram.com/ximesv0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ximesv0611" height="30" width="40" /></a>
 <a href="https://discord.gg/Ximena Saldarriaga#1424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ximena Saldarriaga#1424" height="30" width="40" /></a>
 </p>
